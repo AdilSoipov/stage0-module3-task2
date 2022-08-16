@@ -1,4 +1,4 @@
-package lang.print.gaps.task2;
+package Lang.Print.Gaps.Task2;
 
 public class AdvancedNamingConvention {
     private static final int ADULT_AGE = 18;
